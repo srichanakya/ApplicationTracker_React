@@ -5,7 +5,7 @@ export default function Navbar() {
     <div >
      <nav class="navbar bg-body-tertiary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="/">Job Application Tracker</a>
+    <a class="navbar-brand" href="/">Job Application Tracker 2.0</a>
 
     <ul class="nav justify-content-end">
   <li class="nav-item">
